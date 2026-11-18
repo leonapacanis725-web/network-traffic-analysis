@@ -53,3 +53,9 @@ These observations describe the test environment and capture period only; they d
 ## Disclaimer
 
 This project was performed in the user's own Linux learning environment for educational and defensive cybersecurity practice. Network addresses and results are observations from that environment at the time of testing; they may change.
+
+## Continue Learning with Better Hacker
+
+Explore the related free beginner lesson and hands-on practice:
+
+[Networking lesson](https://betterhacker.org/#networking-lesson) · [Network Analysis practice](https://betterhacker.org/#practice-network-analysis)
